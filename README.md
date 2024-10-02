@@ -1,4 +1,4 @@
-# WalmartSalesData
+# SalesData
 
 ## About
 
